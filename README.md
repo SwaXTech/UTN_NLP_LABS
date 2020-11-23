@@ -1,4 +1,4 @@
-# UTN_NLP_LABS
+# Laboratorios: Procesamiento del Lenguaje Natural - UTN-FRBA
 Laboratorios de Procesamiento del Lenguaje Natural. Materia electiva de UTN-FRBA. Docente: Mg. Ing. Hernán Borré
 
 ## Laboratorio N°1
